@@ -1,2 +1,2 @@
 # phonebook
-Phonebook deployment
+Phonebook deployment with validations 
