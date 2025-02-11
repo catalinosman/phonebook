@@ -1,0 +1,11 @@
+GET http://localhost:3001/api/persons/
+###
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+    "name": "Catalin Osman",
+    "number": "202-2032232"
+}
+### 
+DELETE http://localhost:3001/api/persons/67ab5b031fc346fc652220e4
